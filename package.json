@@ -1,0 +1,36 @@
+{
+  "name": "jsdom",
+  "version": "0.1.0",
+  "description": "A JavaScript DOM testing framework",
+  "keywords": [
+    "javascript",
+    "testing",
+    "unit",
+    "dom",
+	"ajax"
+  ],
+  "maintainers": [
+    {
+      "name": "tmpvar",
+      "email": "tmpvar@gmail.com"
+    },
+    {
+      "name": "George",
+      "email": "aletras78@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aletras/domfixture.git"
+  },
+  "dependencies": {
+    "jsdom": "9.10.0",
+    "mock-xmlhttprequest": "3.10.3"
+  },
+  "main": "./lib/domfixture",
+  "gitHead": "49596addeb0ef5fa5cb6903f5544a8ce09c99daa",
+  "bugs": {
+    "url": "https://github.com/aletras/domfixture/issues"
+  }
+}
